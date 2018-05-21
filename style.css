@@ -14,6 +14,33 @@
 
 /** Child theme style**/
 	
+/** job details layout 1 **/
+.vacancy-layout-3 #eclipse_vacancy{
+}
+
+.vacancy-layout-3 #eclipse_vacancy .vacancy-meta{
+    width: 100% !important;
+}
+
+.vacancy-layout-3 #eclipse_vacancy .vacancy-meta .vac-lbl{
+    width: 40%;
+}
+
+.vacancy-layout-3 #eclipse_vacancy .vacancy-meta .vac-val{
+    width:59%;
+}
+	
+.vacancy-layout-3 #eclipse_vacancy .vacancy-action{
+	border:1px dashed #fff;
+}
+/** job details layout 1 **/
+	
+	
+	
+	
+	
+	
+	
 	
 /** job board layout 2 **/	
 #eclipse_job_board .vacancy-layout-2 .vacancy-meta {
@@ -27,6 +54,15 @@
 #eclipse_job_board .vacancy-layout-2 .vacancy-description {
 	width: 100% !important;
 }
+
+#eclipse_job_board .vacancy-layout-2 .vac-lbl {
+	border:0px dashed red;
+}
+
+#eclipse_job_board .vacancy-layout-2 .vac-val {
+	border:0px dashed blue;
+}
+
 /** job board layout 2 **/	
 	
 	
