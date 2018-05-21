@@ -13,6 +13,25 @@
  */
 
 /** Child theme style**/
+	
+	
+/** job board layout 2 **/	
+#eclipse_job_board .vacancy-layout-2 .vacancy-meta {
+	width: 100% !important;
+}
+
+#eclipse_job_board .vacancy-layout-2 .vacancy-action {
+	width: 100% !important;
+}
+
+#eclipse_job_board .vacancy-layout-2 .vacancy-description {
+	width: 100% !important;
+}
+/** job board layout 2 **/	
+	
+	
+	
+/** job board layout 3 **/	
 #eclipse_job_board .vacancy-layout-3 .vacancy-meta {
 	width: 100% !important;
 }
@@ -24,3 +43,21 @@
 #eclipse_job_board .vacancy-layout-3 .vacancy-description {
 	width: 100% !important;
 }
+/** job board layout 3 **/
+	
+	
+/** job board layout 4 **/	
+#eclipse_job_board .vacancy-layout-4 .vacancy-meta {
+	width: 100% !important;
+}
+
+#eclipse_job_board .vacancy-layout-4 .vacancy-action {
+	width: 100% !important;
+}
+
+#eclipse_job_board .vacancy-layout-4 .vacancy-description {
+	width: 100% !important;
+}
+/** job board layout 4 **/
+	
+
