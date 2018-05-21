@@ -1,0 +1,26 @@
+/*
+ Theme Name:   Twentyseventeen Child
+ Theme URI:    http://wordpress49.base/twentyseventeen-child
+ Description:  Twentyseventeen Child Theme
+ Author:       Eclipse Software
+ Author URI:   http://wordpress49.base/
+ Template:     twentyseventeen
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  twentyseventeen-child
+ */
+
+/** Child theme style**/
+#eclipse_job_board .vacancy-layout-3 .vacancy-meta {
+	width: 100% !important;
+}
+
+#eclipse_job_board .vacancy-layout-3 .vacancy-action {
+	width: 100% !important;
+}
+
+#eclipse_job_board .vacancy-layout-3 .vacancy-description {
+	width: 100% !important;
+}
